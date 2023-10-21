@@ -16,5 +16,5 @@ En este caso, el usuario ingresó "3", y el programa respondió mostrando "Marzo
 Consideraciones
 Este programa es un ejemplo simple de cómo utilizar una estructura switch en C++ para tomar decisiones basadas en la entrada del usuario. Puedes personalizar el programa o incorporarlo en proyectos más grandes donde sea necesario tomar decisiones basadas en valores de entrada. Asegúrate de que la lógica del programa esté bien implementada en tu código C++ y que se comunique claramente con el usuario.
 
-Autor: Yoshio Geovanni García Lópes
+Autor: Yoshio Geovanni García López
 Fecha: 4 de diciembre del 2022
